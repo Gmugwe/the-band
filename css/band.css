@@ -1,0 +1,23 @@
+.important {
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+  font-weight: bold;
+  font-family: arial bold;
+}
+.unimportant {
+  color: black;
+  font-style: normal;
+  font-size: 16px;
+}
+p.best {
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bolder;
+}
+.sidebar {
+  font-size: 16px;
+  font-style: italic;
+  float: right;
+  background-color: grey;
+}
